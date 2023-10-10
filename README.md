@@ -2,10 +2,10 @@
 
 Platformer Game
 
+Collect all the gems and make it to the end of the level to win!
+
 Controls:
 Move left: A
 Move right: D
 Jump: Space
 Click buttons to navigate UI
-
-Planning documentation can be found in the "Planning Documents.pdf" file in the root of the repository
