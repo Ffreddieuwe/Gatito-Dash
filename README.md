@@ -1,5 +1,4 @@
-# platformer-22-23-Ffreddieuwe
-platformer-22-23-Ffreddieuwe created by GitHub Classroom
+# Gatito Dash
 
 Platformer Game
 
