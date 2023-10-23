@@ -9,3 +9,5 @@ Move left: A
 Move right: D
 Jump: Space
 Click buttons to navigate UI
+
+A demo video can be found at: https://youtu.be/epeoZig-bZU
